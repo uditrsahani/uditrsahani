@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditrsahani&label=Profile%20views&color=0e75b6&style=flat" alt="uditrsahani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditrsahani" alt="uditrsahani" /></a> </p>
 
 - 🔭 I’m currently studying **Bachelor's In Information Technology at Siam University, Bangkok**
 
