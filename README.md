@@ -1,10 +1,11 @@
-[![MasterHead]([https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg](http://uditsahani.tech/wp-content/uploads/2023/02/background.jpg))](https://uditsahani.tech)
+[![MasterHead](http://uditsahani.tech/wp-content/uploads/2023/02/background.jpg)](https://uditsahani.tech)
 <h1 align="center">Hi 👋, I'm Udit Sahani</h1>
 <h3 align="center">A passionate frontend developer based in Bangkok, Thailand</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditrsahani&label=Profile%20views&color=0e75b6&style=flat" alt="uditrsahani" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditrsahani" alt="uditrsahani" /></a> </p>
 
 - 🔭 I’m currently studying **Bachelor's In Information Technology at Siam University, Bangkok**
 
