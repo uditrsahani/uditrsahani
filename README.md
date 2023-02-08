@@ -1,7 +1,7 @@
 [![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg)](https://uditsahani.tech)
 <h1 align="center">Hi 👋, I'm Udit Sahani</h1>
 <h3 align="center">A passionate frontend developer based in Bangkok, Thailand</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditrsahani&label=Profile%20views&color=0e75b6&style=flat" alt="uditrsahani" /> </p>
 
