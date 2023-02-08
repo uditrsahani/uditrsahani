@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg)](https://uditsahani.tech)
+[![MasterHead]([https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg](http://uditsahani.tech/wp-content/uploads/2023/02/background.jpg))](https://uditsahani.tech)
 <h1 align="center">Hi 👋, I'm Udit Sahani</h1>
 <h3 align="center">A passionate frontend developer based in Bangkok, Thailand</h3>
 
