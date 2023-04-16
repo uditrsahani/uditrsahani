@@ -1,8 +1,3 @@
-<div align="center">
-<img src="http://uditsahani.tech/wp-content/uploads/2023/02/udit-github-cover.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I am IT student at Siam University, Bangkok</div>  
   
 
