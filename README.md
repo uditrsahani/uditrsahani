@@ -4,7 +4,7 @@
 <ul>
   <li>Fullstack Web Development using MERN Stack</li>
   <li>Data Structures & Algorithm</li>
-  <li>Open source contribution</li>
+  <li>Open Source Contribution</li>
 </ul>
   
 </div>
