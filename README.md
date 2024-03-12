@@ -1,6 +1,9 @@
 <div font-family:"Tahoma">
 
-  <h3>My Information and Skills:</h3>
+  <h3>Hi, I am Udit Sahani 😃</h3>
+  <hr/>
+  <p>🌎A full-stack developer based in Bangkok, Thailand </p>
+  
 <ul>
   <li>Frontend Stack 💻: HTML, CSS, TailwindCSS, JavaScript, Reactjs, TypeScript</li>
   <li>Backend Stack 👨🏽‍💻: Nodejs, Expressjs, PHP</li>
