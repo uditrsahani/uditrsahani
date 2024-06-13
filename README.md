@@ -1,5 +1,5 @@
 <div font-family:"Tahoma" >
-<img src="https://media.licdn.com/dms/image/D4D16AQF1HkUGnbm0DQ/profile-displaybackgroundimage-shrink_350_1400/0/1717520274463?e=1723680000&v=beta&t=SHI3TpASLIveTD3doXyVeXz26jMTVM8ZTv84KoMdt3E"/>
+<img src="https://media.licdn.com/dms/image/D4D16AQF1HkUGnbm0DQ/profile-displaybackgroundimage-shrink_350_1400/0/1717520274463?e=1723680000&v=beta&t=SHI3TpASLIveTD3doXyVeXz26jMTVM8ZTv84KoMdt3E" style="border-radius: "10px"/>
   <h3>Hi, I am Udit Sahani 😃</h3>
   <hr/>
   <p>🌎A full-stack developer based in Bangkok, Thailand </p>
