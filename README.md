@@ -11,6 +11,7 @@
   <li>Data Structures & Algorithms 𝞹📈🧠📚</li>
   <li style="color:blue;">Looking for a full-time internship or job, open to learning new technologies.</li>
   <li><i>Expected Date of Graduation: December 2024 👨🏻‍🎓</i></li>
+  <li><i>Currently working on a MERN stack <a href="https://github.com/uditrsahani/e-Notebook"> E-Notebook Webapp </a> 👨🏽‍💻</i></li>
 </ul>
   
 </div>
